@@ -1,0 +1,12 @@
+{
+  "name": "Website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assets/javascript/main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

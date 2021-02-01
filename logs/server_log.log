@@ -1,0 +1,412 @@
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] INFO Server listening on 192.168.1.193:8000
+
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] INFO requesting ./pages/home/home.html
+
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] INFO requesting ./assets/javascript/topnav/topnav.js
+
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/header/header.css
+
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/topnav/topnav.css
+
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] INFO requesting ./pages/about/about.html
+
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] INFO requesting ./assets/javascript/topnav/topnav.js
+
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/header/header.css
+
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/topnav/topnav.css
+
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] INFO requesting ./pages/about/pages/home/home.html
+
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] WARN The page ./pages/about/pages/home/home.html does not exist
+
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] INFO requesting ./pages/about/pages/home/home.html
+
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] WARN The page ./pages/about/pages/home/home.html does not exist
+
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] INFO requesting ./pages/about/pages/home/home.html
+
+[Sat Jan 23 2021 14:27:17 GMT-0600 (Central Standard Time)] WARN The page ./pages/about/pages/home/home.html does not exist
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] INFO Server listening on 192.168.1.193:8000
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] INFO requesting ./pages/home/home.html
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] INFO requesting ./assets/javascript/topnav/topnav.js
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/header/header.css
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/topnav/topnav.css
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] INFO requesting ./pages/about/about.html
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] INFO requesting ./assets/javascript/topnav/topnav.js
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/header/header.css
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/topnav/topnav.css
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] INFO requesting ./pages/home/home.html
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] INFO requesting ./assets/javascript/topnav/topnav.js
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/header/header.css
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/topnav/topnav.css
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] INFO requesting ./pages/home/pages/about/about.html
+
+[Sat Jan 23 2021 14:29:18 GMT-0600 (Central Standard Time)] WARN The page ./pages/home/pages/about/about.html does not exist
+
+[Sat Jan 23 2021 14:30:02 GMT-0600 (Central Standard Time)] INFO Server listening on 192.168.1.193:8000
+
+[Sat Jan 23 2021 14:30:02 GMT-0600 (Central Standard Time)] INFO requesting ./pages/home/home.html
+
+[Sat Jan 23 2021 14:30:02 GMT-0600 (Central Standard Time)] INFO requesting ./assets/javascript/topnav/topnav.js
+
+[Sat Jan 23 2021 14:30:02 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/header/header.css
+
+[Sat Jan 23 2021 14:30:02 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/topnav/topnav.css
+
+[Sat Jan 23 2021 14:30:02 GMT-0600 (Central Standard Time)] INFO requesting ./about/about.html
+
+[Sat Jan 23 2021 14:30:02 GMT-0600 (Central Standard Time)] WARN The page ./about/about.html does not exist
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO Server listening on 192.168.1.193:8000
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./pages/home/home.html
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./assets/javascript/topnav/topnav.js
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/header/header.css
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/topnav/topnav.css
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./favicon.ico
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] WARN The page ./favicon.ico does not exist
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./pages/home/home.html
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./assets/javascript/topnav/topnav.js
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/header/header.css
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/topnav/topnav.css
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./pages/home/home.html
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./assets/javascript/topnav/topnav.js
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/header/header.css
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./assets/css/topnav/topnav.css
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./favicon.ico
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] WARN The page ./favicon.ico does not exist
+
+[Fri Jan 29 2021 12:06:31 GMT-0600 (Central Standard Time)] INFO requesting ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 18:32:06 GMT-0600 (Central Standard Time)] INFO Server listening on 192.168.1.193:8000
+
+[Fri Jan 29 2021 18:32:06 GMT-0600 (Central Standard Time)] INFO requesting ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 18:34:40 GMT-0600 (Central Standard Time)] INFO Server listening on 192.168.1.193:8000
+
+[Fri Jan 29 2021 18:34:40 GMT-0600 (Central Standard Time)] INFO requesting ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 18:38:34 GMT-0600 (Central Standard Time)] INFO Server listening on 192.168.1.193:8000
+
+[Fri Jan 29 2021 18:38:34 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 18:39:28 GMT-0600 (Central Standard Time)] INFO Server listening on 192.168.1.193:8000
+
+[Fri Jan 29 2021 18:39:28 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 18:39:28 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 18:39:28 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 18:41:06 GMT-0600 (Central Standard Time)] INFO Server listening on 192.168.1.193:8000
+
+[Fri Jan 29 2021 18:41:06 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 18:43:28 GMT-0600 (Central Standard Time)] INFO Server listening on 192.168.1.193:8000
+
+[Fri Jan 29 2021 18:43:28 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 18:43:28 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 18:43:28 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO Server listening on 192.168.1.193:8000
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] ERROR EISDIR
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] ERROR EISDIR
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/UpdatePosts/UpdatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/api/UpdatePosts/UpdatePosts.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/home/home.html
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./assets/javascript/topnav/topnav.js
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/header/header.css
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/topnav/topnav.css
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/UpdatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/api/UpdatePosts/updatePosts.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/home/home.html
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./assets/javascript/topnav/topnav.js
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/header/header.css
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/topnav/topnav.css
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./home.html
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./home.html does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/home.html
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/home.html does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/home/hjome.html
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/home/hjome.html does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/home/home.html
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./assets/javascript/topnav/topnav.js
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/header/header.css
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/topnav/topnav.css
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/UpdatePosts/UpdatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/UpdatePosts/UpdatePosts.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/updatePosts/UpdatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/updatePosts/UpdatePosts.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/updateposts/UpdatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/updateposts/UpdatePosts.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/updatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/updatePosts/updatePosts.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/updatePosts/updateposts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/updatePosts/updateposts.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/home/home.html
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./assets/javascript/topnav/topnav.js
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/header/header.css
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/topnav/topnav.css
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/UpdatePage/UpdatePage.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/api/UpdatePage/UpdatePage.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/UpdatePage/updatePage.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/api/UpdatePage/updatePage.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePage/updatePage.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/api/updatePage/updatePage.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePage/update_page.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/api/updatePage/update_page.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePage/updatepage.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/api/updatePage/updatepage.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/update_page/updatePage.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/api/update_page/updatePage.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/UpdatePosts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/api/UpdatePosts/updatePosts.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/update_posts/updatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/api/update_posts/updatePosts.json does not exist
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/update_posts/UpdatePosts.json
+
+[Fri Jan 29 2021 19:00:39 GMT-0600 (Central Standard Time)] WARN The page ./pages/api/update_posts/UpdatePosts.json does not exist
+
+[Sun Jan 31 2021 18:27:36 GMT-0600 (Central Standard Time)] INFO Server listening on 127.0.0.1:8000
+
+[Sun Jan 31 2021 18:27:36 GMT-0600 (Central Standard Time)] INFO reqing ./pages/home/home.html
+
+[Sun Jan 31 2021 18:27:36 GMT-0600 (Central Standard Time)] INFO reqing ./assets/javascript/topnav/topnav.js
+
+[Sun Jan 31 2021 18:27:36 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/header/header.css
+
+[Sun Jan 31 2021 18:27:36 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/topnav/topnav.css
+
+[Sun Jan 31 2021 18:27:36 GMT-0600 (Central Standard Time)] INFO reqing ./favicon.ico
+
+[Sun Jan 31 2021 18:27:36 GMT-0600 (Central Standard Time)] WARN The page ./favicon.ico does not exist
+
+[Sun Jan 31 2021 18:27:36 GMT-0600 (Central Standard Time)] INFO reqing ./about/about.html
+
+[Sun Jan 31 2021 18:27:36 GMT-0600 (Central Standard Time)] WARN The page ./about/about.html does not exist
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] INFO Server listening on 127.0.0.1:8000
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] INFO reqing ./pages/home/home.html
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] INFO reqing ./assets/javascript/topnav/topnav.js
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/header/header.css
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/topnav/topnav.css
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] INFO reqing ./pages/about/about.html
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] INFO reqing ./assets/javascript/topnav/topnav.js
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/header/header.css
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/topnav/topnav.css
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] INFO reqing ./pages/home/home.html
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] INFO reqing ./assets/javascript/topnav/topnav.js
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/header/header.css
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/topnav/topnav.css
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] INFO reqing ./pages/home/pages/about/about.html
+
+[Sun Jan 31 2021 18:29:07 GMT-0600 (Central Standard Time)] WARN The page ./pages/home/pages/about/about.html does not exist
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO Server listening on 127.0.0.1:8000
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./pages/home/home.html
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/javascript/topnav/topnav.js
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/header/header.css
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/topnav/topnav.css
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./pages/about/about.html
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/javascript/topnav/topnav.js
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/header/header.css
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/topnav/topnav.css
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./pages/home/home.html
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/javascript/topnav/topnav.js
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/header/header.css
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/topnav/topnav.css
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./pages/about/about.html
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/javascript/topnav/topnav.js
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/header/header.css
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/topnav/topnav.css
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./pages/home/home.html
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/javascript/topnav/topnav.js
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/header/header.css
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./assets/css/topnav/topnav.css
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./api/updatePosts/updatePosts.json
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] WARN The page ./api/updatePosts/updatePosts.json does not exist
+
+[Sun Jan 31 2021 18:30:22 GMT-0600 (Central Standard Time)] INFO reqing ./pages/api/updatePosts/updatePosts.json
+
