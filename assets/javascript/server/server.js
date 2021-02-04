@@ -52,8 +52,8 @@ function server() {
                 break;
         }
 
-        console.log(`[${d}] reqing ${filePath}`);
-        fs.appendFile('logs/server_log.log', `[${d}] INFO reqing ${filePath}\n\n`, function (error) {
+        console.log(`[${d}] requiring ${filePath}`);
+        fs.appendFile('logs/server_log.log', `[${d}] INFO requiring ${filePath}\n\n`, function (error) {
             if (error) throw error;
         });
 
@@ -87,8 +87,8 @@ function server() {
         })
 
     }).listen(port, ip);
-    console.log(`[${d}] Server listening on port ${ip}:${port}`);
-    fs.appendFile('logs/server_log.log', `[${d}] INFO Server listening on ${ip}:${port}\n\n`, function (error) {
+    console.log(`[${d}] Server listening at http://${ip}:${port}`);
+    fs.appendFile('logs/server_log.log', `[${d}] INFO Server listening at http://${ip}:${port}\n\n`, function (error) {
         if (error) throw error;
     });
 }
