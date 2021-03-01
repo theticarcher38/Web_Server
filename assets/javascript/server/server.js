@@ -52,8 +52,8 @@ function server() {
                 break;
         }
 
-        console.log(`[${d}] reqing ${filePath}`);
-        fs.appendFile('logs/server_log.log', `[${d}] INFO reqing ${filePath}\n\n`, function (error) {
+        console.log(`[${d}] requiring ${filePath}`);
+        fs.appendFile('logs/server_log.log', `[${d}] INFO requiring ${filePath}\n\n`, function (error) {
             if (error) throw error;
         });
 
