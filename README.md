@@ -1,2 +1,2 @@
 # Web_Server
-A webserver to host [https://github.com/theticarcher38/Web_Server](Laws For Paws)
+A webserver to host the api for my Leadership Capstone Project [Laws For Paws](https://github.com/theticarcher38/Web_Server)
