@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript">
+        function vali() {
+            var u = document.forms['loginForm']['user'].value;
+            var p = document.forms['loginForm']['pwd'].value;
+
+            if ((u == "Admin") && (p == "Password")) {
+                window.location = "../posting/posting.html";
+                return false;
+            } else {
+                alert('please try again');
+                return false;
+            }
+        }
+    </script>
+    <title>Document</title>
+</head>
+<body>
+    <form method="post" name="loginForm">
+        <fieldset style="width:35px;"> <legend>Login Here</legend>
+            <input type="text" name="user" placeholder="Username" required>
+            <input type="Password" name="pwd" Placeholder="Password" required>
+            <input type="submit" name="submit" value="submit" onclick="return vali()">
+        </fieldset>
+    </form>
+</body>
+</html>
