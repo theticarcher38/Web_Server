@@ -1,0 +1,9 @@
+/* Link Style */
+
+.post-link-hidden {
+    visibility: hidden;
+}
+
+.post-link-visible {
+    visibility: visible;
+}

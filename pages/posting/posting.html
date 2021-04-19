@@ -4,9 +4,29 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./posting.css">
+    <script type="text/javascript" src="./postingVan.js"></script>
     <title>Document</title>
 </head>
 <body>
+
+    <form class="post-form" id="post-form">
+        <fieldset style="width:35px" <legend>Post</legend>
+            <br>
+            <select id="post-type" name="post-type">
+                <option value="update">Update Post</option>
+                <option value="adoption">Adoption Post</option>
+                <option value="petition">Petition Post</option>
+            </select>
+            <input type="text" placeholder="Post Title" id="post-title">
+            <input type="text" placeholder="Description" id="post-description">
+            <input type="text" placeholder="Link" id="post-link" class="post-link-hidden">
+        </fieldset>
+    </form>
+
+    <form class="post-form" id="update-post-form">
+
+    </form>
     
 </body>
 </html>
