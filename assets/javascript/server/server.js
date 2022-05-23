@@ -2,10 +2,6 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 const port = 8000;
-/*
-Using actual IP Address
-const ip = '192.168.1.193';
-*/
 // Local Host IP Address
 const ip = '127.0.0.1';
 var filePath;
